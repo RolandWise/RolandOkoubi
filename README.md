@@ -1,4 +1,4 @@
-<center><h1>Roland Okoubi/h1></center>
+<center><h1>Roland Okoubi</h1></center>
 
 
 
@@ -9,13 +9,13 @@
 
 <h2>✔️ Fullstack Developer </h2> 
 
-![Pvictorf GitHub](https://github-readme-stats.vercel.app/api?username=pvictorf&show_icons=true&theme=dark&card_width=446)
+![RolandWise GitHub](https://github-readme-stats.vercel.app/api?username=RolandWise&show_icons=true&theme=dark&card_width=446)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvictorf&layout=compact&theme=dark&card_width=446)](https://github.com/pvictof/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RolandWise&layout=compact&theme=dark&card_width=446)](https://github.com/pvictof/github-readme-stats)
 
 
 
-<h2>💻 Tecnologias </h2>
+<h2>💻 Technologie </h2>
 
 <p> Atualmente <i>Fullstack developer </i> e apaixonado por tecnologia  estou focado em apredender ferramentas para desenvolvimento de aplicações <i>web, mobile e API</i>, além de boas práticas de programação e gerenciamento de projetos. </p>
 
@@ -34,9 +34,10 @@
 ![Tec](./assets/icons/spring.svg)
 ![Tec](./assets/icons/python.svg)
 ![Tec](./assets/icons/nodejs.svg)
+![Tec](./assets/icons/go.svg)
 
 <h3> Mobile </h3>
-
+![Tec](./assets/icons/react-native.svg)
 ![Tec](./assets/icons/mobile.svg)
 ![Tec](./assets/icons/dart.svg)
 ![Tec](./assets/icons/flutter.svg)
