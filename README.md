@@ -31,18 +31,18 @@
 <h3> Backend </h3>
 
 ![Tec](./assets/icons/security.svg)
-![Tec](./assets/icons/spring.svg)
-![Tec](./assets/icons/python.svg)
 ![Tec](./assets/icons/nodejs.svg)
-![Tec](./assets/icons/go.svg)
+[![Tec]](./assets/icons/go.svg)
 
 <h3> Mobile </h3>
-![Tec](./assets/icons/react-native.svg)
-![Tec](./assets/icons/mobile.svg)
+[![Tec]](./assets/icons/react-native.svg)
+[![Tec]](./assets/icons/mobile.svg)
 ![Tec](./assets/icons/dart.svg)
 ![Tec](./assets/icons/flutter.svg)
 
 <!--
+![Tec](./assets/icons/spring.svg)
+![Tec](./assets/icons/python.svg)
 <h3> Infra </h3>
 ![Tec](./assets/icons/cloud.svg)
 ![Tec](./assets/icons/docker.svg)
