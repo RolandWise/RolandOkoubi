@@ -32,40 +32,60 @@
 ![Tec](./assets/icons/html.svg)
 ![Tec](./assets/icons/css.svg)
 ![Tec](./assets/icons/react.svg)
-![JavaScript](https://img.shields.io/badge/JavaScript-e3c24b?style=for-the-badge&logo=JavaScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge) 
 ![React](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next js](https://img.shields.io/badge/next-494a49?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-c40606?style=for-the-badge&logo=angular&logoColor=white)
+
+
+<h3> Mobile </h3>
+
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge) 
+![Expo](https://img.shields.io/badge/expo-1C1E24?logo=expo&logoColor=#D04A37&style=for-the-badge) 
 
 <h3> Backend </h3>
 
 ![Tec](./assets/icons/security.svg)
 ![Tec](./assets/icons/nodejs.svg)
-
-
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/go-498ede?style=for-the-badge&logo=go&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-51c27b?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/java-b33232?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-e3c24b?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge)
+![Deno JS](https://img.shields.io/badge/deno%20js-000000?logo=deno&logoColor=white&style=for-the-badge) 
+
 
 
 <h3> Webservice </h3>
 
 ![Graphql](https://img.shields.io/badge/graphql-b02c9e?style=for-the-badge&logo=graphql&logoColor=white)
 
+
 <h3> Data Structure </h3>
 
 ![Json](https://img.shields.io/badge/json-383838?style=for-the-badge&logo=json&logoColor=white)
 
 
+
+
+<h3> Version Control </h3>
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge) 
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=white&style=for-the-badge)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white&style=for-the-badge) 
+
+
 <h3> Database </h3>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white&style=for-the-badge) 
 ![Oracle](https://img.shields.io/badge/Oracle-d6091a?style=for-the-badge&logo=oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-bd1e02?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-e3860b?style=for-the-badge&logo=firebase&logoColor=white)
+
+
 <h3> Fintech technologie </h3>
 
 ![SEPA](https://img.icons8.com/fluency/32/000000/sepa.png)
@@ -76,8 +96,12 @@
 ![Nginx](https://img.shields.io/badge/nginx-038026?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-045dbd?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-a11b03?style=for-the-badge&logo=apache&logoColor=white)
+
+
 <!--
 
+
+<h3> Framework & Libraries </h3>
 ![Tec](./assets/icons/vue.svg)
 ![Tec](./assets/icons/javascript.svg)
 
