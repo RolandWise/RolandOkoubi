@@ -61,11 +61,14 @@
 <h3> Webservice </h3>
 
 ![Graphql](https://img.shields.io/badge/graphql-b02c9e?style=for-the-badge&logo=graphql&logoColor=white)
+![Rest](https://img.shields.io/badge/rest-%232B2F33.svg?style=for-the-badge&logo=rest&logoColor=white)
+![Soap](https://img.shields.io/badge/soap-%23F05033.svg?style=for-the-badge&logo=soap&logoColor=white)
 
 
 <h3> Data Structure </h3>
 
 ![Json](https://img.shields.io/badge/json-383838?style=for-the-badge&logo=json&logoColor=white)
+
 
 
 
@@ -93,12 +96,37 @@
 
 <h3> Web Server </h3>
 
-![Nginx](https://img.shields.io/badge/nginx-038026?style=for-the-badge&logo=nginx&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-045dbd?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-a11b03?style=for-the-badge&logo=apache&logoColor=white)
 
 
 <!--
+
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+
+OS
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+
+![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
+![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
 
 
 <h3> Framework & Libraries </h3>
